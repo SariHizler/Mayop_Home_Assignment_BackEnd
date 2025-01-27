@@ -1,0 +1,285 @@
+[
+    {
+        "id": 1,
+        "title": "Technology Conference 2025",
+        "description": "Conference on tech innovation.",
+        "date": "2025-03-15",
+        "location": "San Francisco, USA",
+        "userType": "local"
+    },
+    {
+        "id": 2,
+        "title": "Culinary Workshop",
+        "description": "Traditional cooking workshop.",
+        "date": "2025-04-10",
+        "location": "New Orleans, USA",
+        "userType": "tourist",
+        "images": [
+            "https://example.com/images/culinary_workshop_1.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Sustainability Lecture",
+        "description": "Lecture on sustainability.",
+        "date": "2025-05-20",
+        "location": "Los Angeles, USA",
+        "userType": "local"
+    },
+    {
+        "id": 4,
+        "title": "Graduation Party",
+        "description": "Celebration for graduation.",
+        "date": "2025-06-30",
+        "location": "Chicago, USA",
+        "userType": "local"
+    },
+    {
+        "id": 5,
+        "title": "Art Exhibition",
+        "description": "Showcase of local artists.",
+        "date": "2025-07-15",
+        "location": "New York, USA",
+        "userType": "tourist",
+        "images": [
+            "https://example.com/images/art_exhibition_1.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Jazz Festival",
+        "description": "Celebrate jazz music.",
+        "date": "2025-08-25",
+        "location": "Newport, USA",
+        "userType": "local"
+    },
+    {
+        "id": 7,
+        "title": "Outdoor Yoga Retreat",
+        "description": "Relaxing yoga retreat.",
+        "date": "2025-09-10",
+        "location": "Sedona, USA",
+        "userType": "tourist",
+        "images": [
+            "https://example.com/images/yoga_retreat_1.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Food Truck Festival",
+        "description": "Best food trucks in the city.",
+        "date": "2025-10-05",
+        "location": "Austin, USA",
+        "userType": "local"
+    },
+    {
+        "id": 9,
+        "title": "Historical Walking Tour",
+        "description": "Explore the city's history.",
+        "date": "2025-11-12",
+        "location": "Philadelphia, USA",
+        "userType": "tourist",
+        "images": [
+            "https://example.com/images/historical_tour_1.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Local Music Night",
+        "description": "Performances by local musicians.",
+        "date": "2025-12-01",
+        "location": "Seattle, USA",
+        "userType": "local"
+    },
+        {
+            "id": 11,
+            "title": "Startup Pitch Night",
+            "description": "Opportunity for startups to pitch their ideas.",
+            "date": "2025-01-20",
+            "location": "San Jose, USA",
+            "userType": "local"
+        },
+        {
+            "id": 12,
+            "title": "Photography Workshop",
+            "description": "Learn the art of photography.",
+            "date": "2025-02-18",
+            "location": "Miami, USA",
+            "userType": "local"
+        },
+        {
+            "id": 13,
+            "title": "Community Gardening Day",
+            "description": "Join the community to plant new gardens.",
+            "date": "2025-03-03",
+            "location": "Denver, USA",
+            "userType": "local"
+        },
+        {
+            "id": 14,
+            "title": "Local Craft Fair",
+            "description": "Showcase of local crafts and artisans.",
+            "date": "2025-04-05",
+            "location": "Portland, USA",
+            "userType": "local"
+        },
+        {
+            "id": 15,
+            "title": "Film Screening Under the Stars",
+            "description": "Outdoor movie night with classics.",
+            "date": "2025-05-15",
+            "location": "Nashville, USA",
+            "userType": "local"
+        },
+        {
+            "id": 16,
+            "title": "Tech Meetup",
+            "description": "Networking event for tech enthusiasts.",
+            "date": "2025-06-20",
+            "location": "Austin, USA",
+            "userType": "local"
+        },
+        {
+            "id": 17,
+            "title": "Local History Talk",
+            "description": "Learn about the history of your town.",
+            "date": "2025-07-08",
+            "location": "Boston, USA",
+            "userType": "local"
+        },
+        {
+            "id": 18,
+            "title": "Charity Run",
+            "description": "Join us for a run to support local charities.",
+            "date": "2025-08-12",
+            "location": "Phoenix, USA",
+            "userType": "local"
+        },
+        {
+            "id": 19,
+            "title": "Open Mic Night",
+            "description": "Showcase your talent at our local open mic night.",
+            "date": "2025-09-22",
+            "location": "Las Vegas, USA",
+            "userType": "local"
+        },
+        {
+            "id": 20,
+            "title": "Wine Tasting Experience",
+            "description": "Taste local wines and learn about the process.",
+            "date": "2025-10-14",
+            "location": "Sonoma, USA",
+            "userType": "local"
+        },
+        {
+            "id": 21,
+            "title": "Historical Food Tour",
+            "description": "Taste the history of the city through its food.",
+            "date": "2025-01-25",
+            "location": "Charleston, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/historical_food_tour_1.jpg"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "City Art Walk",
+            "description": "Guided tour of the city's best art installations.",
+            "date": "2025-02-10",
+            "location": "Santa Fe, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/city_art_walk_1.jpg"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Wildlife Safari",
+            "description": "Experience the wild side of nature.",
+            "date": "2025-03-30",
+            "location": "Everglades, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/wildlife_safari_1.jpg"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Beach Yoga Retreat",
+            "description": "Yoga sessions on the beach.",
+            "date": "2025-04-15",
+            "location": "Malibu, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/beach_yoga_retreat_1.jpg"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Cultural Festival",
+            "description": "Celebrate diverse cultures through food, music, and dance.",
+            "date": "2025-05-05",
+            "location": "San Diego, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/cultural_festival_1.jpg"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Scenic Bike Tour",
+            "description": "Explore the city on two wheels.",
+            "date": "2025-06-01",
+            "location": "Chicago, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/scenic_bike_tour_1.jpg"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Gastronomy Experience",
+            "description": "Savor the local cuisine with a guided experience.",
+            "date": "2025-07-20",
+            "location": "New Orleans, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/gastronomy_experience_1.jpg"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Nature Hike",
+            "description": "Join us for a guided hike in nature.",
+            "date": "2025-08-18",
+            "location": "Yosemite, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/nature_hike_1.jpg"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Live Comedy Show",
+            "description": "Enjoy a night of laughter with local comedians.",
+            "date": "2025-09-15",
+            "location": "Orlando, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/live_comedy_show_1.jpg"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "River Cruise",
+            "description": "Experience the city from the water.",
+            "date": "2025-10-25",
+            "location": "Savannah, USA",
+            "userType": "tourist",
+            "images": [
+                "https://example.com/images/river_cruise_1.jpg"
+            ]
+        }
+    ]
+    
